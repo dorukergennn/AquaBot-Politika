@@ -1,4 +1,4 @@
-BlueLime varsayılan olarak herhangi bir veri saklamaz. 
+AquaBot varsayılan olarak herhangi bir veri saklamaz. 
 Sunucu Yönetme iznine sahip bir sunucu üyesi botun ön-ekini değiştirmek için önek komutunu kullanırsa, sunucunun otomatik olarak oluşturulan Discord Kimliği (örneğin, 990134628625752) sağlanan önekle birlikte botun veritabanında saklanacaktır.
 Bunlar ayarlanabilir komutlar içinde geçerlidir.Bu veri saklamasının sebebi bot kapatılıp açıldığında botun sorunsuz devam etmesini sağlaması içindir. 
 Sunucuyla ilgili başka hiçbir veri depolanmaz. MechanicBot, kullanıcılara özel verileri asla saklamaz. 
